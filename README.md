@@ -5,7 +5,7 @@
 # DEMO
 Play at PlayCambus : https://playcanv.as/p/9ikvfVCH/
 
-Video on YouTube : https://youtu.be/tz9P0m70MYo
+Video on YouTube : https://youtu.be/a1aQ8EjRM44
 
 # Features
 ## 曲選択画面
