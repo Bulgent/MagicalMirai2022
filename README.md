@@ -9,7 +9,7 @@ Video on YouTube : https://youtu.be/tz9P0m70MYo
 
 # Features
 ## 曲選択画面
- ![Select Song](https://user-images.githubusercontent.com/88919409/179513187-917bd8d9-6d61-44a7-a3c3-107526c1df8b.png)
+ ![Select Song](https://user-images.githubusercontent.com/89962792/179534043-0aa847fe-bd93-4035-ab10-1e8cb7378e9d.png)
  
  ラジオをモチーフにした曲選択画面を制作しました。
  - 曲選択画面では虫の声を流すことで、夏の夜が想起されるような演出をしています。
