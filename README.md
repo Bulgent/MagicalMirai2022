@@ -1,4 +1,4 @@
-![Select Song](https://user-images.githubusercontent.com/88919409/179513187-917bd8d9-6d61-44a7-a3c3-107526c1df8b.png)
+![LOGO_GIT](https://user-images.githubusercontent.com/88919409/179529633-9c3795fa-260b-4ae3-9faf-3e4c049e0757.png)
 # Project Arcturus \~Starry Story\~
 ## -初音ミク「マジカルミライ 2022」プログラミング・コンテスト応募作品-
 
