@@ -34,9 +34,9 @@ Video on YouTube : https://youtu.be/a1aQ8EjRM44
 適正画面サイズはFullHD(1920×1080)です。PCでの再生をおすすめします。
 
 # Credit
-Moritaka Aguro 🦄 (Pegasus)
+<a><img src="https://avatars.githubusercontent.com/u/89962792" width="30px;" /></a> <a><img src="https://playcanvas.com/api/users/346277/thumbnail?size=50" width="30px;" /></a> Moritaka Aguro 🦄 (Pegasus)
 
-Ryota Kataoka 👽 (K.B.T.C.)
+<a><img src="https://avatars.githubusercontent.com/u/88919409" width="30px;" /></a> <a><img src="https://playcanvas.com/api/users/346279/thumbnail?size=50" width="30px;" /></a>  Ryota Kataoka 👽 (K.B.T.C.)
 
 # Made with PlayCanvas
 ![PlayCanbus](https://user-images.githubusercontent.com/88919409/179517741-daf88e06-ff8b-4d75-a4e1-8e78e3f7e76c.png)
