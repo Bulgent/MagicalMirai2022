@@ -30,6 +30,20 @@ Video on YouTube : https://youtu.be/a1aQ8EjRM44
  ![Song End](https://user-images.githubusercontent.com/88919409/179513412-9d990da0-4e9d-4ba5-9981-d7358564db81.png)
  - 歌詞の再生が終了すると、曲が流れ終わるに向かって徐々に空が白みはじめ、曲が終わったときには朝になります。これは、夜空は歌によって彩られていることと、もうすぐ曲が終わることを意識させる為です。
 
+# Usage
+
+Install Git, Python and run the command
+```bash
+git clone https://github.com/Bulgent/MagicalMirai2022.git
+cd MagicalMirai2022
+
+# If you use Python 2.x
+python -m SimpleHTTPServer
+# If you use python 3.x
+python -m http.server
+```
+Then point your browser to http://localhost:8000
+
 # Notes
 適正画面サイズはFullHD(1920×1080)です。PCでの再生をおすすめします。
 
