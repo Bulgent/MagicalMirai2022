@@ -32,9 +32,9 @@ Video on YouTube : https://youtu.be/a1aQ8EjRM44
 適正画面サイズはFullHD(1920×1080)です。PCでの再生をおすすめします。
 
 # Credit
-Moritaka Aguro (Pegasus)
+Moritaka Aguro 🦄 (Pegasus)
 
-Ryota Kataoka (K.B.T.C.)
+Ryota Kataoka 👽 (K.B.T.C.)
 
 # Made with PlayCanvas
 ![PlayCanbus](https://user-images.githubusercontent.com/88919409/179517741-daf88e06-ff8b-4d75-a4e1-8e78e3f7e76c.png)
