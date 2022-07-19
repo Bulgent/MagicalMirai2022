@@ -3,8 +3,10 @@
 ## -初音ミク「マジカルミライ 2022」プログラミング・コンテスト応募作品-
 
 # DEMO
+<a href="https://playcanv.as/p/9ikvfVCH/"><img src="https://playcanvas.com/static-assets/images/icons/favicon.png" width="19px;" /></a>
 Play at PlayCambus : https://playcanv.as/p/9ikvfVCH/
 
+<a href="https://youtu.be/a1aQ8EjRM44"><img src="https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.png" width="20px;" /></a>
 Video on YouTube : https://youtu.be/a1aQ8EjRM44
 
 # Features
